@@ -91,3 +91,41 @@ VSCodeとGitHubを連携した形で、どんどん問題を解いていきま�
 ---
 
 # 🚀 さあ、100本ノックを始めよう！
+
+---
+
+# 🛠️ 推奨エディタと拡張機能
+
+## 推奨エディタ
+
+- **Visual Studio Code (VSCode)**  
+  DartとFlutterの開発に最も適している軽量エディタです。
+
+[Visual Studio Code ダウンロード](https://code.visualstudio.com/)
+
+---
+
+## 必須・推奨拡張機能
+
+| 拡張機能名 | 説明 |
+|:---|:---|
+| Dart | Dart言語サポート（必須） |
+| Flutter | Flutterプロジェクト用サポート（UIプレビューなど） |
+| GitLens | Git操作を強力にサポートするツール（履歴、差分確認など） |
+| Bracket Pair Colorizer 2 | 括弧のペアに色をつけて見やすくする |
+| Error Lens | エラーや警告を即座に見やすく表示する |
+
+---
+
+## 便利なショートカット
+
+| ショートカット | 説明 |
+|:---|:---|
+| `Ctrl + ~` | ターミナルを開く |
+| `Ctrl + Shift + P` | コマンドパレットを開く |
+| `Ctrl + S` | 保存してホットリロード（Flutterの場合） |
+| `F5` | デバッグ実行（Flutter/Dartでも使える） |
+
+---
+
+> ✨ **まずは「Dart」「Flutter」拡張だけ入れておけばすぐ始められます！**
