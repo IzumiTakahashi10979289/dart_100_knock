@@ -1,0 +1,9 @@
+{
+    "recommendations": [
+      "dart-code.dart-code",             // Dartサポート
+      "dart-code.flutter",               // Flutterサポート
+      "eamodio.gitlens",                 // Gitの履歴や差分を見る
+      "coenraads.bracket-pair-colorizer-2", // 括弧に色をつける
+      "usernamehw.errorlens"             // エラー表示を見やすくする
+    ]
+}  
